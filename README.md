@@ -81,10 +81,6 @@ Classified images are saved to Google Drive in `EarthEngineExports` for further 
 - Using deep learning models for better accuracy.
 - Expanding study area to analyze urbanization trends in other cities.
 
-## Contributors
-- **Mujtaba Qasim**  
-  S.No: 3194922  
-  Group No: 4
 
 ## License
 This project is open-source and available under the MIT License.
